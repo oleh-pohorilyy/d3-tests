@@ -1,0 +1,12 @@
+{
+  "name": "@d3-tests/design-system",
+  "version": "0.1.0",
+  "main": "index.ts",
+  "private": true,
+  "dependencies": {
+    "@types/styled-components": "^5.1.25",
+    "styled-breakpoints": "^11.1.0",
+    "styled-components": "^5.3.5",
+    "styled-reset": "^4.3.4"
+  }
+}
